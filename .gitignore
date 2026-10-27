@@ -8,3 +8,4 @@
 *.face
 Pepelac_face/face/Pepelac/
 __pycache__/
+!release/*.face
