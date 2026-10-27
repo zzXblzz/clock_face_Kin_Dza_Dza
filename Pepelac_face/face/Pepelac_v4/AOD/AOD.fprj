@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16" ?>
+<FaceProject DeviceType="367">
+    <Screen Title="AOD" Bitmap="preview.png">
+        <Widget Shape="30" Name="image_00" X="0" Y="0" Width="336" Height="480" Alpha="255" Visible_Src="0" Bitmap="black.png" />
+        <Widget Shape="32" Name="widget_01" X="31" Y="92" Width="118" Height="94" Alpha="255" Digits="2" Alignment="1" Spacing="0" Blanking="0" Visible_Src="0" Value_Src="811" BitmapList="h_0.png|h_1.png|h_2.png|h_3.png|h_4.png|h_5.png|h_6.png|h_7.png|h_8.png|h_9.png|h_0.png" />
+        <Widget Shape="30" Name="image_02" X="155" Y="92" Width="25" Height="94" Alpha="255" Visible_Src="0" Bitmap="colon.png" />
+        <Widget Shape="32" Name="widget_03" X="186" Y="92" Width="118" Height="94" Alpha="255" Digits="2" Alignment="1" Spacing="0" Blanking="0" Visible_Src="0" Value_Src="1011" BitmapList="m_0.png|m_1.png|m_2.png|m_3.png|m_4.png|m_5.png|m_6.png|m_7.png|m_8.png|m_9.png|m_0.png" />
+    </Screen>
+</FaceProject>
